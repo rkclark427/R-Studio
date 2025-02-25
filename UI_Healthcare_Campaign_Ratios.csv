@@ -1,0 +1,144 @@
+"College","Department","Area","Amount_Sum"
+"Dentistry","Dental Research","Dental Research",213382.88
+"Dentistry","Dentistry Administration","Clinic Administration",183355
+"Dentistry","Dentistry Administration","Dentistry General",4443141.94
+"Dentistry","Dentistry Administration","Dentistry Other",6238885.82
+"Dentistry","Dentistry Administration","Dentistry Student Affairs",2052038.15
+"Dentistry","Endodontics","Endodontics",881650.46
+"Dentistry","Family Dentistry","Family Dentistry",1088088.08
+"Dentistry","Hospital Dentistry","Depart. of Hospital Dentistry",206350
+"Dentistry","Operative Dentistry","Operative Dentistry",911373.21
+"Dentistry","Oral & Maxillofacial Surgery","Oral and Maxillofacial Surgery",338725.19
+"Dentistry","Oral Pathology & Diagnosis","Oral Pathology and Diagnosis",1755
+"Dentistry","Oral Pathology & Diagnosis - ORG","Oral Pathology and Diagnosis - OR",65199
+"Dentistry","Orthodontics","Orthodontics",1786352.78
+"Dentistry","Pediatric Dentistry","Pediatric Dentistry",599766.55
+"Dentistry","Periodontics","Periodontics",777418.34
+"Dentistry","Preventive & Community Dentist","Preventive & Comm. Dentistry",1367697.15
+"Dentistry","Prosthodontics","Prosthodontics",4079095
+"Medicine","Anesthesiology","Anesthesiology",1353509.9
+"Medicine","Associated Medical Sciences","Phys. Therapy",5714339.01
+"Medicine","Associated Medical Sciences","Physician Assistant",2450161.07
+"Medicine","Basic Sciences","Anatomy and Cell Biology",19974123.38
+"Medicine","Basic Sciences","Biochemistry",1024337
+"Medicine","Basic Sciences","Biochemistry & Molecular Biolo",3192815
+"Medicine","Basic Sciences","Microbiology",3078388
+"Medicine","Basic Sciences","Neuroscience and Pharmacology",330438.97
+"Medicine","Basic Sciences","Pharmacology",5455894.98
+"Medicine","Basic Sciences","Physiology and Biophysics",4284667.06
+"Medicine","Biomedical Discovery Institute","Biomedical Discovery",625100
+"Medicine","Cancer Center","Adolescent and Young Adult AYA",2609291.65
+"Medicine","Cancer Center","Cancer Center",46803671.01
+"Medicine","Cancer Center","Cancer Center & Children's Hos",250
+"Medicine","Cancer Center","HCCC Gynecologic Oncology",3085620.12
+"Medicine","Cancer Center","HOBMT Accounts",5870
+"Medicine","Cancer Center","Urology/Cancer",1694713.67
+"Medicine","Cancer Center (Just CR)","Cancer Center",2792146.98
+"Medicine","Cancer Center (Just CR)","Palliative Care  - CP",50
+"Medicine","Cardiothoracic Surgery","Cardiothoracic Surgery",125359.29
+"Medicine","Dermatology","Dermatology",2516570.08
+"Medicine","Eagles Diabetes Research Cente","Eagles Diabetes Research Cente",3928325.26
+"Medicine","Eagles Diabetes Research Center","Eagles Diabetes Research Cente",12794
+"Medicine","Family Medicine","Family Medicine",1857433.84
+"Medicine","Hospital Based Needs Program","Support & Palliative Care",1062782.52
+"Medicine","Internal Medicine","Abboud Cardiovascular Research",298131.12
+"Medicine","Internal Medicine","CVICU",43565
+"Medicine","Internal Medicine","Cancer/Internal Medicine Admin",207
+"Medicine","Internal Medicine","Cardiovascular Diseases",8305774.65
+"Medicine","Internal Medicine","Division of General Internal Medicine",5273012.8
+"Medicine","Internal Medicine","Endocrinology/Metabolism",2650200
+"Medicine","Internal Medicine","Gastroenterology/Hepatology",5716167.72
+"Medicine","Internal Medicine","Hematology/Oncology",4688144.36
+"Medicine","Internal Medicine","Immunology",379673.9
+"Medicine","Internal Medicine","Infectious Diseases",908500
+"Medicine","Internal Medicine","Internal Medicine Admin.",30272140.92
+"Medicine","Internal Medicine","Internal Medicine Education",466400
+"Medicine","Internal Medicine","Nephrology",3161280.94
+"Medicine","Internal Medicine","Pulmonary Disease",1697551.23
+"Medicine","Internal Medicine","Rheumatology",709000
+"Medicine","Medicine Administration","Global Education",1172499.71
+"Medicine","Medicine Administration","IA Bone Marrow Program",20343.06
+"Medicine","Medicine Administration","Medicine Administration",108997342.39
+"Medicine","Medicine Administration","Medicine Capital Campaign",9500
+"Medicine","Neurology","Neurology",12018820.19
+"Medicine","Neuroscience Institute","Neuroscience Area",20807955.23
+"Medicine","Neurosurgery","Neurosurgery",4081971.36
+"Medicine","Neurosurgery","Pediatric Neurosurgery",367470
+"Medicine","OB/Gyn","Cancer/OB-GYN",4581751.44
+"Medicine","OB/Gyn","Ob/Gyn",8827677.02
+"Medicine","Ophthalmology & Visual Science","Institute of Vision Research",52554495.68
+"Medicine","Ophthalmology & Visual Science","Institute of Vision Research - VI",1169500
+"Medicine","Ophthalmology & Visual Science","Iowa KidsSight",2257046.88
+"Medicine","Ophthalmology & Visual Science","Iowa Lions Bank",918167.14
+"Medicine","Ophthalmology & Visual Science","Ophthalmology & Childrens Hosp",540179.29
+"Medicine","Ophthalmology & Visual Science","Ophthalmology & Visual Science",37800480.23
+"Medicine","Orthopaedic Surgery","Athletic Training Education",10021518
+"Medicine","Orthopaedic Surgery","Orthopaedic Surgery",5039282.63
+"Medicine","Orthopaedic Surgery","Orthopaedic Surgery & Children",20050
+"Medicine","Otolaryngology","Otolaryngology",11267717.1
+"Medicine","Pathology","Pathology",7966448.33
+"Medicine","Pediatrics","Hematology/Oncology",8410741.6
+"Medicine","Pediatrics","Pediatric Allergy-Pulmonary",223098.75
+"Medicine","Pediatrics","Pediatric Cardiology",1714628.85
+"Medicine","Pediatrics","Pediatric Endocrinology",1606705.75
+"Medicine","Pediatrics","Pediatric Gastrointerology",545
+"Medicine","Pediatrics","Pediatric Genetics",144945
+"Medicine","Pediatrics","Pediatric Neonatology",14268667.39
+"Medicine","Pediatrics","Pediatric Nephrology",508515
+"Medicine","Pediatrics","Pediatric Neurology",3909428.5
+"Medicine","Pediatrics","Pediatric Rheumatology",1221233.05
+"Medicine","Pediatrics","Pediatrics",24607300.31
+"Medicine","Ponseti International Associat","Ponseti Intl Assoc & Children'",2820574.56
+"Medicine","Psychiatry","Psychiatry",12539142.22
+"Medicine","Psychiatry","Psychiatry & Childrens Hospita",9765418.03
+"Medicine","Radiation Oncology","Cancer/Radiation Oncology",4576543.37
+"Medicine","Radiation Oncology","Radiation Oncology",3075
+"Medicine","Radiation Research","Radiation Research",40950
+"Medicine","Radiology","Radiology",5770460.77
+"Medicine","Surgery","Cancer/Surgery",1014156
+"Medicine","Surgery","Organ Transplant",1526747.8
+"Medicine","Surgery","Surgery General",829134.68
+"Medicine","Surgery","Surgery General & Children Hos",100
+"Medicine","Urology","Cancer/Urology",509682.83
+"Medicine","Urology","Urology",2492537.88
+"Medicine","Urology","Urology & Childrens Hospital",108500
+"Nursing","Nursing Administration","NIC/NOC Nursing Classification",17100
+"Nursing","Nursing Administration","Nursing Centennial",532770.04
+"Nursing","Nursing Administration","Nursing General",46088453.77
+"Pharmacy","Pharmacy Administration","Keith Guillory",602205.82
+"Pharmacy","Pharmacy Administration","Pharmacy Building",3550
+"Pharmacy","Pharmacy Administration","Pharmacy General",39414805.42
+"Public Health","Biostatistics","Biostatistics",8941146.72
+"Public Health","Community & Behavioral Health","Community & Behavioral Health",1114507.22
+"Public Health","Epidemiology","Cancer/Public Health",21488.61
+"Public Health","Epidemiology","Epidemiology",5997556.72
+"Public Health","Health Management and Policy","Health Management and Policy",3314208.25
+"Public Health","Occupation & Environment Hlth","Occupational & Environ. Hlth.",708397.02
+"Public Health","Public Health Administration","IIPHRP",1064581.39
+"Public Health","Public Health Administration","Public Health",5295358.31
+"UI Health Care","UI Health Care","UI Health Care",1400
+"UI Hospitals and Clinics","Children's Hospital of Iowa Ad","C5",94001
+"UI Hospitals and Clinics","Children's Hospital of Iowa Ad","Center for Disabilities & Dev",500264
+"UI Hospitals and Clinics","Children's Miracle Network","Children's Miracle Network",14587930.43
+"UI Hospitals and Clinics","Emergency Medicine Dept","Emergency Medicine",234737.83
+"UI Hospitals and Clinics","UI Children's Hospital","Center for Disabilities & Dev",63075
+"UI Hospitals and Clinics","UI Children's Hospital","Child Health Specialty Clinics",150000
+"UI Hospitals and Clinics","UI Children's Hospital","UI Children's Hospital",68729607.1
+"UI Hospitals and Clinics","UI Hospitals & Clinics Admin","Hospital Other",2331773.72
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Burn accounts",197189.06
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","CHAMPS",4651
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Cancer/Hospital",9230.72
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Dietary Services",12864
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Graduate Medical Education",20828.05
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Office of the Patient Experience",458338.26
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Rehabilitation Therapies",86406.77
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UI Healthcare Enterprise",85998861.33
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UI Heart and Vascular Center",1202823.61
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UIHC Administration",5585450.28
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UIHC Arts Acquistion",2706.62
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UIHC Caring Fund",1077892.14
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UIHC Guest Services",41568.27
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UIHC Nursing Accounts",1038182.12
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","UIHC Social Services",295106.24
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Volunteer Services",14855
+"UI Hospitals and Clinics","UI Hospitals and Clinics Admin","Women's Health Care",11265
